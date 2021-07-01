@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/%20redux-pomodora/static/css/main.454bf88e.chunk.css",
-    "main.js": "/%20redux-pomodora/static/js/main.87cff33e.chunk.js",
-    "main.js.map": "/%20redux-pomodora/static/js/main.87cff33e.chunk.js.map",
-    "runtime-main.js": "/%20redux-pomodora/static/js/runtime-main.82da9f74.js",
-    "runtime-main.js.map": "/%20redux-pomodora/static/js/runtime-main.82da9f74.js.map",
-    "static/js/2.11aa467a.chunk.js": "/%20redux-pomodora/static/js/2.11aa467a.chunk.js",
-    "static/js/2.11aa467a.chunk.js.map": "/%20redux-pomodora/static/js/2.11aa467a.chunk.js.map",
-    "index.html": "/%20redux-pomodora/index.html",
-    "precache-manifest.89b9a452bbf17af2970a3fc22f4df6f3.js": "/%20redux-pomodora/precache-manifest.89b9a452bbf17af2970a3fc22f4df6f3.js",
-    "service-worker.js": "/%20redux-pomodora/service-worker.js",
-    "static/css/main.454bf88e.chunk.css.map": "/%20redux-pomodora/static/css/main.454bf88e.chunk.css.map",
-    "static/js/2.11aa467a.chunk.js.LICENSE.txt": "/%20redux-pomodora/static/js/2.11aa467a.chunk.js.LICENSE.txt",
-    "static/media/bell.flac": "/%20redux-pomodora/static/media/bell.525320df.flac"
+    "main.css": "/redux-pomodora/static/css/main.454bf88e.chunk.css",
+    "main.js": "/redux-pomodora/static/js/main.d75f6b72.chunk.js",
+    "main.js.map": "/redux-pomodora/static/js/main.d75f6b72.chunk.js.map",
+    "runtime-main.js": "/redux-pomodora/static/js/runtime-main.460dc850.js",
+    "runtime-main.js.map": "/redux-pomodora/static/js/runtime-main.460dc850.js.map",
+    "static/js/2.11aa467a.chunk.js": "/redux-pomodora/static/js/2.11aa467a.chunk.js",
+    "static/js/2.11aa467a.chunk.js.map": "/redux-pomodora/static/js/2.11aa467a.chunk.js.map",
+    "index.html": "/redux-pomodora/index.html",
+    "precache-manifest.44ac7ce03a658caa78d4bc65482ca89c.js": "/redux-pomodora/precache-manifest.44ac7ce03a658caa78d4bc65482ca89c.js",
+    "service-worker.js": "/redux-pomodora/service-worker.js",
+    "static/css/main.454bf88e.chunk.css.map": "/redux-pomodora/static/css/main.454bf88e.chunk.css.map",
+    "static/js/2.11aa467a.chunk.js.LICENSE.txt": "/redux-pomodora/static/js/2.11aa467a.chunk.js.LICENSE.txt",
+    "static/media/bell.flac": "/redux-pomodora/static/media/bell.525320df.flac"
   },
   "entrypoints": [
-    "static/js/runtime-main.82da9f74.js",
+    "static/js/runtime-main.460dc850.js",
     "static/js/2.11aa467a.chunk.js",
     "static/css/main.454bf88e.chunk.css",
-    "static/js/main.87cff33e.chunk.js"
+    "static/js/main.d75f6b72.chunk.js"
   ]
 }
